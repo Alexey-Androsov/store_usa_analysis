@@ -1,6 +1,6 @@
 # Анализ продаж супермаркета Store USA.
 
-***Row ID - Unique row ID
+* Row ID - Unique row ID
 ***Order ID - Unique identifier of each order
 ***OrderDate - Date of order
 ***Ship Date - Date that product was shipped
