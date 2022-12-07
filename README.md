@@ -1,5 +1,5 @@
-# Анализ продаж супермаркета Store USA.
-
+## Анализ продаж супермаркета Store USA.
+#  Описание данных:
 * Row ID - Unique row ID
 * Order ID - Unique identifier of each order
 * OrderDate - Date of order
